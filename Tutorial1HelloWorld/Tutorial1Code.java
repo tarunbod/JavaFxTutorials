@@ -35,8 +35,10 @@ public class JavaFxTutorial1 extends Application {
 
         // Here is an example of the above in Java 8 syntax.
         /*
-         btn.setOnAction((event) -> System.out.println("Hello World!"))
-         */
+
+        btn.setOnAction((event) -> System.out.println("Hello World!"));
+		
+		*/
         // When we click the button, it sets the button's text to "Hello World!"
         
         // A stackpane is a basic container which centers it's children.
